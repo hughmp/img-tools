@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "gm": "^1.23.0",
+    "gulp": "^3.9.1",
+    "gulp-image-resize": "^0.12.0",
+    "gulp-watermark": "^0.0.1"
+  }
+}
